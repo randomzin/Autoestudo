@@ -8,7 +8,7 @@ var config = {
         update: update
     },
     scale: {
-        mode: Phaser.Scale.RESIZE, // Permite que a tela seja redimensionada automaticamente
+        mode: Phaser.Scale.RESIZE, // A tela vai ser redimensionada sozinha"
         autoCenter: Phaser.Scale.CENTER_BOTH
     }
 };
